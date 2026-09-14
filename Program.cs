@@ -3,7 +3,8 @@ Callen Thomason
 9/14/2026
 Challenge #1 STARBASE-7 Bug Hunt (C# Debugging Assignment)
 I went through the program and fixed every syntax, runtime, and logic error. I then heavily bug tested it to ensure everything works properly. 
-
+Peer Review: Valery Lot
+Review: Code ran perfectly as expected. Bug log is also nice and organized.
 */ 
 
 
