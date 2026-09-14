@@ -1,3 +1,13 @@
+/*
+Callen Thomason
+9/14/2026
+Challenge #1 STARBASE-7 Bug Hunt (C# Debugging Assignment)
+I went through the program and fixed every syntax, runtime, and logic error. I then heavily bug tested it to ensure everything works properly. 
+
+*/ 
+
+
+
 // ============================================================
 //   STARBASE-7  SYSTEMS CHECK TERMINAL
 // ============================================================
